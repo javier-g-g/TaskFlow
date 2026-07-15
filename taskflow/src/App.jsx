@@ -1,13 +1,9 @@
 
-import './App.css'
+import "./styles/App.css";
+import Home from "./pages/Home/Home";
 
 function App() {
-
-  return (
-    
-    <h1>Panel de Actividades</h1>
-          
-  )
+  return <Home />;
 }
 
-export default App
+export default App;
