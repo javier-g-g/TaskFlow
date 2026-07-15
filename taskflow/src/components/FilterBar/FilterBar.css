@@ -1,0 +1,19 @@
+.filterbar {
+
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 25px 0;
+    flex-wrap: wrap;
+
+}
+
+.filterbar button {
+
+    border-radius: 30px;
+    padding: 6px;
+    border: 2px solid #919ea8;
+    background-color: #272c30;
+    color: white;
+
+}
