@@ -15,5 +15,12 @@
     border: 2px solid #919ea8;
     background-color: #272c30;
     color: white;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: 0.3s;
 
+}
+
+.filterbar button:hover {
+    background-color: #4b535a;
 }
